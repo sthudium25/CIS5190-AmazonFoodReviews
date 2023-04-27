@@ -21,13 +21,14 @@ An abriged version of the final report up to 6 pages long can be found in `Abrig
 ### Notebooks
 To replicate this analysis the following files in the folder `notebooks` must be run in the following order:
 1. Data Processing, EDA, and baseline model tuning: `00_Project2Milestone_+_TF_IDF_hyperparam_tuning.ipynb`
-2. S3 File Access to cleaned data: `01_s3_fileAccessTest.ipynb`
+2. S3 File Access to cleaned data: `01_s3-dataAccess.ipynb`
 3. Helper functions for plotting and model evaluation: `02_helper_module.py`
 4. TF-IDF + Logistic Regression Tuned Model: `03_ST_tfidf-logreg.ipynb`
 5. TF-IDF + Multinomial Naive Bayes Model: `04_ST_tfidf-MNB.ipynb`
 6. Word2Vec + Logistic Regression Tuned Model: `05_Word2Vec+LogReg.ipynb`
 7. Word2Vec + LSTM tuned Model: `06_Word2Vec+LSTM.ipynb`
 8. BERT Base Cased Model: `07_BERT_base_cased.ipynb`
+9. Replica of data preprocessing with additonal EDA included: `08_DataCleaning+Visualization_Milestone3.ipynb`
 
 ### Data Files
 In the folder titled ``data`` the following files can be found:
