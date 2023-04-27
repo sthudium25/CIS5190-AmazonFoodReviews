@@ -14,7 +14,9 @@ Thus, in this project we present a side-by-side performance of NLP and classific
 
 ## Repository Guide
 
-The main results and analysis of this project can be found in `FINAL_REPORT.pdf`
+The main results and analysis of this project can be found in `Full_Report.pdf`
+
+An abriged version of the final report up to 6 pages long can be found in `Abriged_Report.pdf`
 
 ### Notebooks
 To replicate this analysis the following files in the folder `notebooks` must be run in the following order:
