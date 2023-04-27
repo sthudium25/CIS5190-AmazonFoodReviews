@@ -14,7 +14,7 @@ Thus, in this project we present a side-by-side performance of NLP and classific
 
 ## Repository Guide
 
-The main results and analysis of this project can be found in `FINAL_REPORT.PDF`
+The main results and analysis of this project can be found in `FINAL_REPORT.pdf`
 
 ### Notebooks
 To replicate this analysis the following files in the folder `notebooks` must be run in the following order:
@@ -30,5 +30,3 @@ To replicate this analysis the following files in the folder `notebooks` must be
 ### Data Files
 In the folder titled ``data`` the following files can be found:
 1. ``Model_results.csv``: Summary of main models metrics.
-2. `embed_matrix.csv`: Embedding matrix trained using word2vec used in LSTM model.
-3. `Reviews.zip`: Contains the raw data
