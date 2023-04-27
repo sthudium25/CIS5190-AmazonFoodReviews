@@ -16,18 +16,18 @@ Thus, in this project we present a side-by-side performance of NLP and classific
 
 ## Repository Guide
 
-The main results and analysis of this project can be found in `FINAL_REPORT.PDF
+The main results and analysis of this project can be found in `FINAL_REPORT.PDF`
 
 ### Notebooks
 To replicate this analysis the following files in the folder `notebooks` must be run in the following order:
-1. Data Processing, EDA, and baseline model tuning: `00_Project2Milestone_+_TF_IDF_hyperparam_tuning.ipynb
-2. S3 File Access to cleaned data: `01_s3_fileAccessTest.ipynb
-3. Helper functions for plotting and model evaluation: `02_helper_module.py
-4. TF-IDF + Logistic Regression Tuned Model: `03_ST_tfidf-logreg.ipynb
-5. TF-IDF + Multinomial Naive Bayes Model: `04_ST_tfidf-MNB.ipynb
-6. Word2Vec + Logistic Regression Tuned Model: `05_Word2Vec+LogReg.ipynb
-7. Word2Vec + LSTM tuned Model: `06_Word2Vec+LSTM.ipynb
-8. BERT Base Cased Model: `07_BERT_base_cased.ipynb
+1. Data Processing, EDA, and baseline model tuning: `00_Project2Milestone_+_TF_IDF_hyperparam_tuning.ipynb`
+2. S3 File Access to cleaned data: `01_s3_fileAccessTest.ipynb`
+3. Helper functions for plotting and model evaluation: `02_helper_module.py`
+4. TF-IDF + Logistic Regression Tuned Model: `03_ST_tfidf-logreg.ipynb`
+5. TF-IDF + Multinomial Naive Bayes Model: `04_ST_tfidf-MNB.ipynb`
+6. Word2Vec + Logistic Regression Tuned Model: `05_Word2Vec+LogReg.ipynb`
+7. Word2Vec + LSTM tuned Model: `06_Word2Vec+LSTM.ipynb`
+8. BERT Base Cased Model: `07_BERT_base_cased.ipynb`
 
 ### Data Files
 In the folder titled ``data`` the following files can be found:
