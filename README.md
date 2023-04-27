@@ -1,9 +1,7 @@
 # Natural Language Processing - Sentiment Analysis of Amazon Reviews
 
 ## Authors
-**Federico Cimini** (CIS 5190)
-**Liang-Yun Cheng** (CIS 5190)
-**Samuel Thudium** (CIS 5190)
+**Federico Cimini** (CIS 5190), **Liang-Yun Cheng** (CIS 5190), **Samuel Thudium** (CIS 5190)
 
 ## Abstract
 
